@@ -1,0 +1,41 @@
+-pasar todo el gran php a pequeños modulos de node.js (back end)
+
+-ubuntu 18.04
+
+-php		|
+		|     front end
+-symfony	|
+
+-mysql
+
+-mongodb
+
+-json
+
+-react |new front end
+
+-node.js |new back end
+
+-code academy
+
+-stack oberflow
+
+/////////
+
+-contenedores/docker
+
+http://itcb.com.ar
+
+-tutoriales socket.io
+
+-mongodb + node 
+
+-react + socket.io
+
+-node.js + socket.io
+
+-docker
+
+
+//bit saver
+//comicsexplain
